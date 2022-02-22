@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b300d3d202f96cd4281e5cd26710705b, type: 3}
+  m_Name: Cannon B
+  m_EditorClassIdentifier: 
+  spellname: Cannon
+  description: 40 Damage.
+  artwork: {fileID: -4945205410767855090, guid: 83887aaa8642363469bf4745b2909757,
+    type: 3}
+  damage: 40
+  spellschool: B

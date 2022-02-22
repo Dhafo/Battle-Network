@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ee3dae15b5c1b4190dfde4a60e6e4d, type: 3}
+  m_Name: Recovery10 A
+  m_EditorClassIdentifier: 
+  spellname: Recovery10
+  description: Heal 10 health
+  artwork: {fileID: -635641853143208492, guid: d996ffb03de2a7549a84b38f6ab3c272, type: 3}
+  damage: 0
+  spellschool: A
